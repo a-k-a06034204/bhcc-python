@@ -1,4 +1,4 @@
-# Project 4 game mod
+# project 4 game mod
 
 
 For this assignment, we have to edit the code to make it our own.
