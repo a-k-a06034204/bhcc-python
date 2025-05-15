@@ -1,5 +1,5 @@
 # Project 1 caesar cipher
-# By Ashley Kochapski
+# By Ashley K.
 
 print("Hello user! :)")
 alphabet = "abcdefghijklmnopqrstuvwxyz"
